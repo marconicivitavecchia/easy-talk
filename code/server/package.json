@@ -29,6 +29,6 @@
     "express": "^4.17.0",
     "pi-camera-connect": "^0.2.0",
     "request": "^2.88.0",
-    "sharp": "^0.22.1"
+    "sharp": "^0.30.5"
   }
 }
